@@ -376,4 +376,4 @@ mongodb+srv://<username>:<password>@cluster.mongodb.net/hospital_management
 
 ## 📄 License
 
-MIT © 2024 HealthAxis
+Rajan Dubey© 2024 HealthAxis
