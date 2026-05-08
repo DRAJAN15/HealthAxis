@@ -1,4 +1,4 @@
-# 🏥 HealthAxis - Hospital Management System
+# 🏥 HealthAxis - A centralize market place for the health services 
 
 A full-stack production-ready **MERN** application with JWT auth, role-based access control, Razorpay payments, email/SMS notifications, and an analytics dashboard.
 
