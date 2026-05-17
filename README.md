@@ -7,7 +7,7 @@ A full-stack production-ready **MERN** application with JWT auth, role-based acc
 ## 📁 Project Structure
 
 ```
-hospital-management-system/
+healthAxis
 ├── backend/
 │   ├── config/
 │   │   └── db.js                    # MongoDB connection
